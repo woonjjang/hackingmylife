@@ -10,21 +10,14 @@
     * [아내와 여자친구를 해킹합니다.- Hack My Wife](part4.wife.md)
     * [내 전화기와 이로 인해 생겨나는 커뮤니케이션을 해킹합니다.- Hack My Phone](part5.communication.md)
     * [내 친구, 가족. 인간관계를 해킹합다.- Hack My RelationShip](part6.relationship.md)
-    * 
+    * [내 기억을 해킹해 보세요.- Hack My Memory](part7.memory.md)
+    * [나를 부정하고, 나를 찾아봅니다.- Hack Me](part8.me.md)
+    * [내 몸을 해킹해 봅니다.- Hack My Body](part9.body.md)
+    * [내가가진 아이디를 해킹하세요.- Hack my information](part10.information.md)
+
 * [Part II](part2/README.md)
     * [We love feedback](part2/feedback_please.md)
     * [Better tools for authors](part2/better_tools.md)
-
-
-7. 
-
-8. 내 기억을 해킹해 보세요.- Hack My Memory
-
-9. 나를 부정하고, 나를 찾아봅니다.- Hack Me
-
-10. 내 몸을 해킹해 봅니다.- Hack My Body
-
-11. 내가가진 아이디를 해킹하세요.- Hack my information
 
 ---
 
