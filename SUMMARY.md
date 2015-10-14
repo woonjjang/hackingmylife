@@ -1,32 +1,22 @@
 # 목차
 
-* [intro]
+* [intro](intro.md)
 * [프로로그](hacking_my_life.md)
 * [나를 해킹하세요.](part1/README.md)
     * [사무실을 해킹하세요. Hacking My Office / Company ( 광진구)](part1/office.md)
     * [학교를 해킹하세요.- hack your school](part2/school.md)
-    * [부동산, 월세집을 분해합니다.- Hack My house](part3/House.md)
-    * [내 봉급을 해킹하세요.- Hack My Salary](part4/Salary.md)
+    * [부동산, 월세집을 분해합니다.- Hack My house](part3/house.md)
+    * [내 봉급을 해킹하세요.- Hack My Salary](part4/salary.md)
+    * [아내와 여자친구를 해킹합니다.- Hack My Wife](part4.wife.md)
+    * [내 전화기와 이로 인해 생겨나는 커뮤니케이션을 해킹합니다.- Hack My Phone](part5.communication.md)
+    * [내 친구, 가족. 인간관계를 해킹합다.- Hack My RelationShip](part6.relationship.md)
+    * 
 * [Part II](part2/README.md)
     * [We love feedback](part2/feedback_please.md)
     * [Better tools for authors](part2/better_tools.md)
 
 
-
-
-
-
-2. 
-
-3. 
-
-4. 내 봉급을 해킹하세요.- Hack My Salary
-
-5. 아내와 여자친구를 해킹합니다.- Hack My WIFE
-
-6. 내 전화기와 이로 인해 생겨나는 커뮤니케이션을 해킹합니다.- Hack My Phone
-
-7. 내 친구, 가족. 인간관계를 해킹합다.- Hack My RelationShip
+7. 
 
 8. 내 기억을 해킹해 보세요.- Hack My Memory
 
