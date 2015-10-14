@@ -3,7 +3,7 @@ hacking my life(gitbook project)
 
 
 
-# Intro.md #
+# Intro #
 당신을 해킹하세요.
 
 hack yourself
@@ -13,7 +13,7 @@ hack yourself
 오후 11시 50분
 
 
-# 목차 #
+# 목차.md #
 
 
 
