@@ -1,6 +1,6 @@
 # 목차
 
-* [intro](intro.md)
+* [인트로](intro.md)
 * [프로로그](hacking_my_life.md)
 * [나를 해킹하세요.](part1/README.md)
     * [사무실을 해킹하세요. Hacking My Office / Company ( 광진구)](part1/office.md)
