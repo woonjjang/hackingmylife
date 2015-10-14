@@ -2,7 +2,7 @@
 
 * [인트로](intro.md)
 * [프로로그](hacking_my_life.md)
-* [나를 해킹하세요.](part1/README.md)
+* [Part I | 나를 해킹하세요.](part1/README.md)
     * [사무실을 해킹하세요. Hacking My Office / Company ( 광진구)](part1/office.md)
     * [학교를 해킹하세요.- hack your school](part2/school.md)
     * [부동산, 월세집을 분해합니다.- Hack My house](part3/house.md)
@@ -15,33 +15,28 @@
     * [내 몸을 해킹해 봅니다.- Hack My Body](part9.body.md)
     * [내가가진 아이디를 해킹하세요.- Hack my information](part10.information.md)
 
-* [Part II](part2/README.md)
+* [Part II 내 주변을 해킹하세요.](part2/README.md)
     * [We love feedback](part2/feedback_please.md)
     * [Better tools for authors](part2/better_tools.md)
-
----
-
-(2)내 주변을 해킹하세요.
+    * [회사를 해킹한다.- Hack my company](part
 
 
 
-12. 회사를 해킹한다.- Hack my company
+회사 대표를 해킹한다.- Hack our boss
 
-13. 회사 대표를 해킹한다.- Hack our boss
+주변 커뮤니티를 해킹한다.- Hack my community
 
-14. 주변 커뮤니티를 해킹한다.- Hack my community
+도시를 해킹한다.- Hack my City / 서울 / 삼척
 
-15. 도시를 해킹한다.- Hack my City / 서울 / 삼척
+배우길 바라는 것들을 해킹한다- Hack my learning
 
-16. 배우길 바라는 것들을 해킹한다- Hack my learning
+대한민국을 해킹한다.- Hack my nation
 
-17. 대한민국을 해킹한다.- Hack my nation
+내가 갖게된 꿈, 전망을 해킹한다.- Hack my Vision
 
-18. 내가 갖게된 꿈, 전망을 해킹한다.- Hack my Vision
+세계가 돌아가는 주요 헤게모니를 해킹한다.- Hack my world
 
-19. 세계가 돌아가는 주요 헤게모니를 해킹한다.- Hack my world
-
-20. 지구, 달, 태양을 해킹한다.- Hack my earth, Moon, Sun
+지구, 달, 태양을 해킹한다.- Hack my earth, Moon, Sun
 
 
 
